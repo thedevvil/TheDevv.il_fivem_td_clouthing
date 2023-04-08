@@ -11,7 +11,7 @@ Put it in the folder you want under the /Resources folder
 # td-clouthing
 
 <p align="center">
-  <img  width="400" height="250" src="https://i.hizliresim.com/1trcfxw.png">
+  <img  width="400" height="300" src="https://i.hizliresim.com/1trcfxw.png">
 </p>
 
 # The Devv.il
